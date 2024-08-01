@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devesh-dkp&label=Profile%20views&color=0e75b6&style=flat" alt="devesh-dkp" /> </p>
 
-- 👨‍💻 All of my projects are available at [Devesh Kumar Pandey](deveshpandey.tech)
+- 👨‍💻 All of my projects are available at [Devesh Kumar Pandey](https://deveshpandey.tech)
 
 - 📫 How to reach me **deveshpandey.dp2@gmail.com**
 
